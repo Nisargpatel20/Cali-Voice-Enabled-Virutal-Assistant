@@ -2,6 +2,12 @@
 
 An AI project to build an voice-enabled virtual assistant using Python . The Voice assistant interacts with the humans to perform basic tasks.
 
+### Demo
+![cali-demo](Cali2.png)
+![cali-demo2](Cali1.png)
+
+### GIF:
+![Cali-gif](https://github.com/Nisargpatel20/Cali-Voice-Enabled-Virutal-Assistant/blob/main/Cali-demo2.gif)
 
 ### how to run code:
 1. first clone the repo of
