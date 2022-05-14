@@ -15,7 +15,7 @@ An AI project to build an voice-enabled virtual assistant using Python . The Voi
 ### About Cali :
 
 <!-- ![Cali Demo](https://) -->
-Cali is an AI personal voice assistant service built using Pychram. It can understand human speech and perform basic task designed by the client.
+Cali is an AI personal voice assistant service built using Jupyter Notebook. It can understand human speech and perform basic task designed by the client.
 
 When the user specify the appropriate trigger words , The Cali gets activated and executes the user commands.
 
@@ -46,34 +46,36 @@ Cali AI Voice assistant:"Loading your personal Assistant Cali....
 		User: Can you give me the latest news?
 		
 		
-4. Captures a photo
+4. Open Youtube
 	
   		
-		User:Hey Cali, Take a photo
+		User:Hey Cali, Open Youtube
 		
 		
 5. Searches data from web
 	
    		
-		User: Hey Cali, Search Butterfly images from web
+		User: Hey Cali, Search best natural images in USA from web
 		
 		
 6. Ask geographical and computational questions
 	
   	 	
-		User: Hey Cali, What is the capital of USA? / Hey Cali what is Sin 90?
+		User: Hey Cali, What is the capital of USA? / Hey Cali can you add 21000  and 32222?
 		
 		
 7. Predict Weather of different Cities
    		
 	
-		User: Hey Cali , What is the weather likely now in Kerala?
+		User: Hey Cali , What is the weather today?
+		cali: which city?
+		User: Los Angeles
 		
 	
-8. Abstarct necessary information from wikipedia
+8. get summury from any wikipedia
 	
    		
-		User: Hey Cali , Who is Bill Gates according to Wikipedia
+		User: Hey Cali , Can you open wikipedia of star wars
 		
 		
    The voice assistant abstarcts first 3 lines of wikipedia and gives the information to the user.
@@ -84,8 +86,11 @@ Cali AI Voice assistant:"Loading your personal Assistant Cali....
    		
 	  	User: Hey Cali, Who created you? / Hey Cali , What can you do
 		
+10. good bye greeing to shuting down the Cali:
+	
+		User: Okay Bye!
 		
-10.Turn off your pc when required
+11. Turn off your pc when required
    		
 
    		 User: Hey Cali , Please turn off my PC
