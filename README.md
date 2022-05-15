@@ -52,9 +52,6 @@ Other way to run the code:
 
 ### About Cali :
 
-```{=html}
-<!-- ![Cali Demo](https://) -->
-```
 Cali can communicate with humans and can able to answer of any
 questions. Cali can interpret human commands and carry out normal
 client-defined tasks. we built it with jupyter notebook.
